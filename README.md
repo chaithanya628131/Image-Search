@@ -2,7 +2,8 @@
 
 A sleek, modern web application for searching and discovering high-quality images from Unsplash. Built with React and featuring beautiful animations, gradients, and a responsive design.
 
-![Image Search Preview](https://via.placeholder.com/800x400?text=Image+Search+Preview)
+![Image Search Preview](Preview1)
+![Image Search Preview](Preview2)
 
 ## ✨ Features
 
@@ -113,5 +114,6 @@ const response = await fetch(
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
