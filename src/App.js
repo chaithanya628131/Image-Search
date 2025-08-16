@@ -18,7 +18,7 @@ const App = () => {
     try {
       // Using the provided Unsplash API key
       const response = await fetch(
-        `https://api.unsplash.com/search/photos?query=${query}&per_page=30&client_id=ZYf-uLSsKwz49nZML-HiFq1CIDcx_6JvWBdX5mMxwKs`
+        `https://api.unsplash.com/search/photos?query=${query}&per_page=30&client_id=XWvecVfnB1tFiVTd976KemtZyYmr7YGSHB1_fLCxGA0`
       );
       
       if (response.ok) {
@@ -89,3 +89,4 @@ const App = () => {
 };
 
 export default App;
+
